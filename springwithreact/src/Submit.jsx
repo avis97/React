@@ -10,13 +10,12 @@ function Submit() {
         setUserData(res.data)
       })
     },[])
+
+
     return (
       <>
-       <div>{userData.map((name)=>{
-            return (
-              <h1>{name.firstName}</h1>
-            )
-       })}</div>
+       <div>{userData.map((item)=><h1>{item.firstName +" "+item.lastName + item.age}</h1>)}
+       </div>
       </>
     )
 }

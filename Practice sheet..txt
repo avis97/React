@@ -1,0 +1,115 @@
+ BASIC-->
+(array and number)
+1>find prime number between two number.
+2>.To find Armstrong Number between two given number.
+3>find second lowest element in array.
+4>power of X to the power Y.
+5>find third largest number in a array.
+6>find root of any number(Binary search).
+7>Minimum distance between two numbers.(hints l=-1,e=-1)**.
+8>Check if two arrays are equal or not.
+9>rotate array clock wise.
+10>rotate array anti-clocwise.
+11>array sum without acceptself.
+12>Value equal to index value.
+13>Equality in Array**
+14>Line Them Up**
+15>Equilibrium Point in a array.
+
+STRING-->
+(basic)
+1>Line Them Up.
+2>check a string palindrome or not.(two pointer)
+3>compare two string and check same or not.
+4>Check if strings are rotations of each other or not.
+5>pitice.
+6>Reverse Alternate Words of a String.
+7>panagram.
+8>Convert To Palindrome.
+9>Shuffle String.
+10>sum two string.
+11>Permutations of a given string.
+12>Reverse words in a given string.
+13>Length of the longest substring non repeting.
+14>palindromic substring.
+15>Longest Substring with At Least K Repeating Characters.
+16>Longest K unique characters substring.
+17>Length of the Longest Alphabetical Continuous Substring   Substring
+
+SHORT-->
+1> Bubble sort.
+2>selection sort.
+3>Qsort.
+4>largest number.
+5>kth largest number.
+6>LARGEST NUMBER IN K SWAPS.
+7>Reverse a Sub array.
+
+TWO POINTER-->
+1>max sum of subarray size k.
+2>max product subarray of size k.
+3>Maximum of all subarrays of size k.
+4>Maximum Consecutive Ones gfg practice.
+5>Max water.
+6>Smallest subarray with sum greater than x.
+7>3sum.
+
+BINARY SEARCH-->
+
+1>first position ans last position.
+2>peak element.
+3>Books
+4>fruit problemp.
+5>painters partition.
+6>forest problemp.
+7>Capacity To Ship Packages Within D Days
+8>Minimum Number in a sorted rotated array
+
+EXTRA-->
+1>stock buy and sell..
+2>max products subarray.
+3>max sum subarray.
+4>Jump Game gfg practice.
+5>missing number.
+6>ROTATE Image.
+7>plus one.
+8>Replace Elements with Greatest Element on Right Side.
+9>Maximum Index gfg
+
+
+STACK-->
+
+1>next greatest element.
+2>current next gretest element.
+3>next gretest element II(leetcode).
+4>perianths prblemp(gfg).
+5>remove duplicate.
+6>area of histogram.
+7>The Celebrity Problem.
+7>circuler tour.
+8>stock span prblm.
+9>Next Maximum.(gym)
+10>Maximum of all subarrays of size k(dqueue).
+
+HASHMAP-->
+1>Count Number of Pairs With Absolute Difference K.
+
+
+Sorting Elements of an Array by Frequency****
+**2D array
+**next permutation
+**marge interval
+**string permutation.
+
+**linkdlist
+**tree
+**grap
+
+**16. 3Sum Closest.
+**Top K Frequent Elements
+**Longest Consecutive SubSequence.
+**sql
+**Valid Parenthesis String leetcode.
+**Longest valid Parentheses gfg
+
+
